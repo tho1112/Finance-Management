@@ -1,0 +1,75 @@
+# Compiled Java class files
+target/
+*.class
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+my-finance-app/node_modules/
+my-finance-app/dist/
+dist/
+build/
+
+# Environment and Secret files
+.env
+.env.*
+*.env
+ocr-service/.env
+
+# Python / OCR Service
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+ocr-service/__pycache__/
+ocr-service/venv/
+ocr-service/.venv/
+
+# Heavy binaries and local JDK
+oracleJdk-26/
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+logs/
+
+# Uploaded files
+uploads/
