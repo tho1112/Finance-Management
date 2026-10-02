@@ -1,0 +1,9 @@
+target/
+.git
+.idea
+.vscode
+my-finance-app/
+ocr-service/
+oracleJdk-26/
+uploads/
+*.log
